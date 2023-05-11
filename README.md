@@ -1,2 +1,2 @@
 # A-bank-account-manager
-Written in python
+Just a small class project I made for fun, written in python.
